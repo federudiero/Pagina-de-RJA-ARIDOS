@@ -1,0 +1,17 @@
+.imglogo{
+    height: 200px;
+    width: auto;
+    border-radius: 50%;
+}
+.imgmateriales{
+    height: 300px;
+    width: 300px;
+    border-radius: 90%;
+    
+    
+}
+.imgfooter{
+    height: 50px;
+    width: 50px;
+    border-radius: 90%;
+}
